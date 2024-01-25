@@ -1,0 +1,1 @@
+this is third file of secondbranch. and apend this line from master branch. then append  this line from secondbranch
