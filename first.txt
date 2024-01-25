@@ -1,1 +1,1 @@
-this is first.txt file. remove from master 
+this is first.txt file.after merge solve
